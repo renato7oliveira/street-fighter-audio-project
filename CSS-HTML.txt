@@ -1,0 +1,2 @@
+			html,body{ background:url(bg.jpg) no-repeat; overflow: hidden;}
+		#Stage{ background:transparent!important;}
