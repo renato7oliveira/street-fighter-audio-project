@@ -6,3 +6,6 @@
 
 ### `Imagens`
 // Pinterest (https://br.pinterest.com/pin/285204588886743301)
+
+### `Lentidão`
+// Demora para carregar mas funciona, tente F5 
